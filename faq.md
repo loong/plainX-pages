@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bare
 title: FAQ - Frequently Asked Questions - Plain Exchange
 ---
 FAQ Frequently Asked Questions
