@@ -84,11 +84,32 @@ pay unfair exchange rate” situations that all of us have to deal with
 now. Take a look at this simple comparison we prepared to show where
 we want to build our advantage.
 
-| | Bank | Currency exchange cabinet | Plain Exchange
-|--------- | ------------ | ------------- | --------------------------
-| Commission |On average, you lose from 1- 10% on bank rates adopted by banks in Hong Kong, depending on the popularity of the currency | the level depends on location but is usually between 5%to even 20% above market rate | 0%
-| Operating times | On campus: 9am-5pm, Monday - Friday <br />*On-campus banks offer limited currencies so in reality a trip to bank’s headquarters is necessary | Depending on location, usually closes around 8 pm in Chunking Mansions | On campus: 24/7 
-| Additional costs | 50HKD per transaction under 3,000HKD if you do not have an account with the bank | Cost of transport: 18-30HKD for off-campus locations<br /> Value of time spent on looking for good rates| In certain places, e.g. airports, the commission is especially high due to limited supply and high demand interaction | You need to sign up using your school email and click the verification link we send you upon sign up 
+#### Commission
+
+*Bank:* On average, you lose from 1-10% on bank rates adopted by banks in Hong Kong, depending on the popularity of the currency<sup>1</sup>
+
+*Exchange Cabinet*: the level depends on location but is usually between 5%to even 20% above market rate
+
+**Plain Exchange: 0%**
+
+#### Operating times
+
+*Bank:* On campus: 9am-5pm, Monday - Friday <br />*On-campus banks offer limited currencies so in reality a trip to bank’s headquarters is necessary
+
+*Exchange Cabinet*: Depending on location, usually closes around 8 pm in Chunking Mansions
+
+**Plain Exchange: On Campus: 24/7**
+
+#### Additional Cost
+
+*Bank:* 50HKD<sup>2</sup> per transaction under 3,000HKD if you do not have an account with the bank
+
+*Exchange Cabinet*: Cost of transport: 18-30HKD for off-campus locations<br />Value of time spent on looking for good rates | None, unless you choose to pick an off-campus location
+
+**Plain Exchange: On Campus: None, unless you choose to pick an off-campus location**
+
+<sup>1</sup> Based on our study of currency exchange rates, as compared to market rate on 19/12/2015, based on Hang Seng Bank, Standard Chartered, HSBC, Bank of China <br />
+<sup>2</sup> https://bank.hangseng.com/1/PA_1_2_S5/content/pws/personal/servicecharges/pdfs/tariff(E)_dec.pdf 
 
 ### Can I use Plain Exchange if I am not a student from HKUST/HKU? 
 
