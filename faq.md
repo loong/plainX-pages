@@ -1,6 +1,8 @@
-# FAQ
+FAQ Frequently Asked Questions
+==============================
 
-## ABOUT OUR SERVICES 
+ABOUT OUR SERVICES 
+------------------
 
 ### What is the fee that you charge for the currency exchange?
 
@@ -60,7 +62,8 @@ part of our pilot testing but we are constantly working to improve the
 functions of our application and we hope to be launching to the whole
 travellers market as soon as possible.
 
-## THE CURRENCY EXCHANGE PROCESS 
+THE CURRENCY EXCHANGE PROCESS 
+-----------------------------
 
 ### How does the exchange take place?
 Just follow these four simple steps: 
@@ -134,7 +137,8 @@ this offer with someone else, please make sure that you inform them
 about your need to remove the offer first, in order not to make them
 wait in vain.
 
-## SAFETY MATTERS 
+SAFETY MATTERS 
+--------------
 
 ### What are "Save Spots"?
 
@@ -188,7 +192,9 @@ credibility, before you meet up with the other user.
 Important: If you discover the money is counterfeit after the exchange
 takes place, contact us at info@plainexchange.xyz .
 
-## CURRENCY GUIDELINES
+CURRENCY GUIDELINES
+-------------------
+
 Here are some additional references to check the credibility of the
 most popular currencies traded in Hong Kong:
 
