@@ -1,3 +1,7 @@
+---
+layout: post
+title: FAQ - Frequently Asked Questions - Plain Exchange
+---
 FAQ Frequently Asked Questions
 ==============================
 
