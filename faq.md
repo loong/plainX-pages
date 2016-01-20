@@ -208,6 +208,8 @@ in the top of your and other user’s chat window, so you can just refer
 to one of them when agreeing on the place of exchange. Check them out
 below!
 
+![Map of recommended spots in HKUST](http://mindworker.github.io/plainX-pages/md-img/ustMap.png)
+
 ### How do I know I’m chatting with a real person?
 
 In order to become the user of Plain Exchange, everyone needs to
