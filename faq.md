@@ -1,3 +1,39 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [FAQ Frequently Asked Questions](#faq-frequently-asked-questions)
+  - [ABOUT OUR SERVICES ](#about-our-services)
+    - [What is the fee that you charge for the currency exchange?](#what-is-the-fee-that-you-charge-for-the-currency-exchange)
+    - [Is this app legal?](#is-this-app-legal)
+    - [Do you offer online transfers?](#do-you-offer-online-transfers)
+    - [Why should I use Plain Exchange instead of the bank or currency exchange cabinet?](#why-should-i-use-plain-exchange-instead-of-the-bank-or-currency-exchange-cabinet)
+    - [Can I use Plain Exchange if I am not a student from HKUST/HKU?](#can-i-use-plain-exchange-if-i-am-not-a-student-from-hkusthku)
+  - [THE CURRENCY EXCHANGE PROCESS ](#the-currency-exchange-process)
+    - [How does the exchange take place?](#how-does-the-exchange-take-place)
+    - [What if the amounts offered on the system are less than or more than I need?](#what-if-the-amounts-offered-on-the-system-are-less-than-or-more-than-i-need)
+    - [How do you set the market rate?](#how-do-you-set-the-market-rate)
+    - [What to do if I need the money urgently?](#what-to-do-if-i-need-the-money-urgently)
+    - [How will I know that someone is interested in my offer?](#how-will-i-know-that-someone-is-interested-in-my-offer)
+    - [What to do if I made an offer but changed my mind afterwards?](#what-to-do-if-i-made-an-offer-but-changed-my-mind-afterwards)
+  - [SAFETY MATTERS ](#safety-matters)
+    - [What are "Save Spots"?](#what-are-save-spots)
+    - [How do I know I’m chatting with a real person?](#how-do-i-know-i%E2%80%99m-chatting-with-a-real-person)
+    - [What happens if the user did not show up for the agreed meeting?](#what-happens-if-the-user-did-not-show-up-for-the-agreed-meeting)
+    - [What happens if I get mistreated or cheated during the money exchange process?](#what-happens-if-i-get-mistreated-or-cheated-during-the-money-exchange-process)
+    - [How can I know that the money provided by the other user is real?](#how-can-i-know-that-the-money-provided-by-the-other-user-is-real)
+  - [CURRENCY GUIDELINES](#currency-guidelines)
+    - [HONG KONG (HKD)](#hong-kong-hkd)
+    - [UNITED STATES (USD)](#united-states-usd)
+    - [CHINA (RMB/CNY)](#china-rmbcny)
+    - [UNITED KINGDOM (GBP)](#united-kingdom-gbp)
+    - [EUROZONE (EUR)](#eurozone-eur)
+    - [INDIA (INR)](#india-inr)
+    - [INDONESIA (IDR)](#indonesia-idr)
+    - [SINGAPORE (SGD)](#singapore-sgd)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 FAQ Frequently Asked Questions
 ==============================
 
