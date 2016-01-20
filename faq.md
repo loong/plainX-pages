@@ -1,7 +1,9 @@
 ---
 layout: bare
-title: FAQ - Frequently Asked Questions
+title: FAQ - Frequently Asked Questions - Plain Exchange
 ---
+FAQ Frequently Asked Questions
+==============================
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
