@@ -26,3 +26,8 @@ removeBadge faq/index.html
 
 # cleanup
 find . -name "*-e" | xargs rm
+
+# commit to git
+git add .
+git commit -m "update"
+git push
