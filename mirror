@@ -1,15 +1,17 @@
 #!/bin/bash
 
- function removeBadge
- {
-     sed -i -e 's#</body></html>#<script>$(function(){ $("div").filter(function() { return $(this).css("background-color") == "rgb(43, 50, 57)"; }).hide(); });</script></body></html>#g' $1
- }
+function removeBadge
+{
+    sed -i -e 's#</body></html>#<script>$(function(){ $("div").filter(function() { return $(this).css("background-color") == "rgb(43, 50, 57)"; }).hide(); });</script></body></html>#g' $1
+}
 
 # clone main site
 wget --mirror -r --convert-links plainx-teaser.webflow.io
+wget --mirror -r --convert-links plainx-teaser.webflow.io/the-team
 cp plainx-teaser.webflow.io/* .
+mv the-team team.html
 removeBadge index.html
-removeBadge the-team
+removeBadge team.html
 rm -rf plainx-teaser.webflow.io
 
 # clone faq and terms
